@@ -1,4 +1,4 @@
-# PowerBI-Dashbaords
+# PowerBI-Dashboards
 # Sales Dashboard - key metrics [Sum of sales , Variance and Sum of sales Day,Month,Year]
 # Financial Dashboard - Key metrics [Sales Vs Dicount, Profit Vs Sales , Year wise sales , Country wise monthly distribution and Product specification]
 # Amazon Dashboard - Key metrics [ Age ratings,Popular Generes and Historical Release Patterns]
