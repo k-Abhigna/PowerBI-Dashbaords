@@ -7,4 +7,4 @@
 # Google AppStore Analysis Dashboard - Keymetrics [User Engagement,Ratings over time,Genere -wise breakdown,Install trends by Android Version]
 # Periodic Table Elemnts Dashboard - Keymetrics [Sum of elements Na,Fe,Al,Rl,CA,G,K and C]
 # Sleep,Health and lifestyle Dashboard - Keymetrics [Age,Daily steps,Well-Being and Sleep Disorder]
-# Industry IOT factory Sensor Simulation Dashboard - Keymetrics [Sound dB,Heat Index,Tempearture,Failure History,Layer Intensity,Installation Year,Operational Hours,Coolant Levels(40M),Temp and Hydraullic Pressure 
+# Industry IOT factory Sensor Simulation Dashboard - Keymetrics [Sound dB,Heat Index,Tempearture,Failure History,Layer Intensity,Installation Year,Operational Hours,Temparature and Hydraullic Pressure] 
